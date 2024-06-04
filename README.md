@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do José Rocha 😁
 
  <div>
-   <a href="https://github.com/JoseRocha">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRocha&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/JseRocha">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JseRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JseRocha&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
